@@ -1,0 +1,61 @@
+
+#image
+{
+ background-image:url("gambar_awal.jpg");
+ padding-left:100px;
+ height:250px;
+}
+#header{
+ background-color:#B0C4DE;
+ color:#000080;
+ text-align:center;
+ padding:2px;
+ padding-left:350px;
+}
+#nav{
+ line-height:40px;
+ background-color:#7B68EE;
+ height:230px;
+ width:130px;
+ float:left;
+ padding:5px;
+}
+#section{
+ width:1500px;
+ float:left;
+ padding:10px;
+}
+#footer{
+ background-color:#B0C4DE;
+ color:brown;
+ clear:both;
+ text-align:center;
+ padding:5px;
+}
+
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+}
+
+li {
+ float: left;
+}
+
+a:link, a:visited {
+ display: block;
+ width: 125px;
+ font-weight: bold;
+ color: gold;
+ background-color:#9400DE ;
+ text-align: center;
+ padding: 5px;
+ text-decoration: none;
+ text-transform: uppercase;
+}
+
+a:hover, a:active {
+ background-color: black;
+}
